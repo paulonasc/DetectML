@@ -7,7 +7,7 @@ import './App.css';
 import LoadingScreen from 'react-loading-screen';
 
 const app = new Clarifai.App({
-  apiKey: '655cf316a9d945c597071de0feacf62d'
+  apiKey: // API KEY HERE
 });
 
 class App extends Component {
